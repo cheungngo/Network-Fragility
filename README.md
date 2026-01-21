@@ -11,7 +11,7 @@ Hong Kong, China
 
 Cheung, N. (2026). Network Fragility: A Unified Computational Framework
 for Depression, Antidepressant Mechanisms, and Bipolar Progression.
-Zenodo. https://doi.org/10.5281/zenodo.18316724
+Zenodo. https://doi.org/10.5281/zenodo.18316723
 
 # Foreword
 
