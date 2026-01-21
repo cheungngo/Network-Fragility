@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata from this file."
+title: "Network-Fragility"
+abstract: "Network Fragility: A Unified Computational Framework for Depression, Antidepressant Mechanisms, and Bipolar Progression."
+type: software
+authors:
+  - family-names: "Cheung"
+    given-names: "Ngo"
+repository-code: "https://github.com/cheungngo/Network-Fragility.git"
+license: "CC-BY-4.0"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: "Cheung"
+      given-names: "Ngo"
+  year: 2026
+  title: "Network Fragility: A Unified Computational Framework for Depression, Antidepressant Mechanisms, and Bipolar Progression"
+  publisher: "Zenodo"
+  doi: "10.5281/zenodo.18316724"
+  url: "https://doi.org/10.5281/zenodo.18316724"
